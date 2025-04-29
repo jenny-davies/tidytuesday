@@ -1,1 +1,5 @@
-Assorted code from my attempts at #tidytuesday
+Assorted code from my attempts at [#tidytuesday](https://github.com/rfordatascience/tidytuesday/tree/main)
+
+## 2025-04-29
+
+![Pairs of consecutive words (bigrams) which are frequently used (n \> 2) in the keywords for talks](20250429/Rplot.png)
