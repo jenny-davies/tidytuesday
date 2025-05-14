@@ -5,3 +5,7 @@ Assorted code from my attempts at [#tidytuesday](https://github.com/rfordatascie
 Pairs of consecutive words (bigrams) which are frequently used (n > 2) in the keywords for talks:
 
 ![](20250429/Rplot.png)
+
+## 2025-05-13
+
+![](20250513/Rplot.png)
