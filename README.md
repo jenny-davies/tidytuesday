@@ -9,3 +9,7 @@ Pairs of consecutive words (bigrams) which are frequently used (n > 2) in the ke
 ## 2025-05-13
 
 ![](20250513/Rplot.png)
+
+## 2025-07-01
+
+![](20250701/plot.png)
