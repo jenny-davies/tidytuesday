@@ -16,4 +16,6 @@ Pairs of consecutive words (bigrams) which are frequently used (n > 2) in the ke
 
 ## 2025-12-16
 
+Number of roundabouts by country:
+
 ![](20251216/Rplot.png)
